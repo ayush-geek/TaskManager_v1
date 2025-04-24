@@ -7,8 +7,8 @@
 ### 1. First-Time Setup
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/task-manager.git
-cd task-manager
+git clone https://github.com/ayush-geek/TaskManager_v1.git  
+cd TaskManager_v1
 
 # Build the Docker image
 docker-compose build
