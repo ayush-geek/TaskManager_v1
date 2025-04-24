@@ -5,10 +5,13 @@
 - Terminal (PowerShell/CMD for Windows, Terminal for Mac/Linux)
 
 ### 1. First-Time Setup
+
 ```bash
 # Clone the repository
-git clone [https://github.com/ayush-geek/TaskManager_v1](https://github.com/ayush-geek/TaskManager_v1)
+git clone https://github.com/ayush-geek/TaskManager_v1.git  
 cd task-manager
 
 # Build the Docker image
 docker-compose build
+```
+
